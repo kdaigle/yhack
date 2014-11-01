@@ -1,0 +1,4 @@
+# YHack
+
+Connecticut is awesome.
+
